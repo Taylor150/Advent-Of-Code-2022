@@ -1,3 +1,7 @@
+"""
+Written by Laurence Taylor for AOC Day 1 Challenge
+"""
+
 with open('input.in') as file:
         data = [i for i in file.read().strip().split("\n")]
 
